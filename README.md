@@ -1,5 +1,6 @@
 
 # 1. Algoritma Program Bilangan Random (latihan1-P7.py)
+![hasil code latihan1](https://github.com/user-attachments/assets/5e58f9a5-61c4-49d8-91f7-df5c6bcb7ff7)
 
 ## Tujuan Program:
 Menghasilkan sejumlah N bilangan acak yang nilainya lebih kecil dari 0.5
@@ -34,6 +35,7 @@ Menghasilkan sejumlah N bilangan acak yang nilainya lebih kecil dari 0.5
 
 
 # 2. Algoritma Program Hitung Laba (latihan2-P7.py)
+![hasil code latihan2](https://github.com/user-attachments/assets/236f9cd7-55c0-4237-a3dc-62381176f572)
 
 ## Tujuan Program:
 Menghitung total keuntungan usaha selama 8 bulan dengan persentase laba yang berbeda-beda
@@ -63,6 +65,7 @@ Menghitung total keuntungan usaha selama 8 bulan dengan persentase laba yang ber
 
 
 # 3. Algoritma Program ATM (latihan3-P7.py)
+![hasil code latihan3](https://github.com/user-attachments/assets/73d101a7-18f1-4c1f-89a7-e30ac6370478)
 
 ## Tujuan Program:
 Mensimulasikan mesin ATM sederhana dengan fitur cek saldo dan penarikan uang
